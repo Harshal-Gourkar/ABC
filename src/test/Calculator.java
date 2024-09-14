@@ -2,10 +2,10 @@ package test;
 
 public class Calculator {
 	
-	private String n;
+	private String no;
 	
-	public Calculator(String n ) {
-		this.n=n;
+	public Calculator(String n0 ) {
+		this.no=no;
 	}
 
 	public String getN() {
