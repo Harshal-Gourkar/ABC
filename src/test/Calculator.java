@@ -5,7 +5,7 @@ public class Calculator {
 	private String ad;
 	private int date;
 	private String add;
-
+	//some data added.
 	public int data;
 	private String it;
 
