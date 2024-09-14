@@ -17,5 +17,5 @@ public class Calculator {
 		this.ad = n;
 	}
 	public String getData;
-	
+	// new code added
 }
