@@ -2,17 +2,17 @@ package test;
 
 public class Calculator {
 	
-	private String n;
+	private String ni;
 	
-	public Calculator(String n ) {
-		this.n=n;
+	public Calculator(String ni ) {
+		this.ni=ni;
 	}
 
 	public String getN() {
-		return n;
+		return ni;
 	}
 
 	public void setN(String n) {
-		this.n = n;
+		this.ni = n;
 	}
 }
