@@ -3,7 +3,9 @@ package test;
 public class Calculator {
 	
 	private String ad;
-	
+	public int data;
+	private String it;
+
 	public Calculator(String ad ) {
 		this.ad=ad;
 	}
