@@ -1,7 +1,7 @@
 package test;
 
 public class Calculator {
-	
+	private String name;
 	private String ad;
 	public int data;
 	private String it;
