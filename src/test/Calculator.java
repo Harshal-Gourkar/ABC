@@ -4,7 +4,7 @@ public class Calculator {
 	
 	private String no;
 	
-	public Calculator(String n0 ) {
+	public Calculator(String no ) {
 		this.no=no;
 	}
 
