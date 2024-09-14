@@ -2,7 +2,7 @@ package test;
 
 public class Calculator {
 	
-
+	public int data;
 	private String it;
 	
 	public Calculator(String ni ) {
