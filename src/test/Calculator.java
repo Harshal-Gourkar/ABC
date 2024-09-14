@@ -16,4 +16,6 @@ public class Calculator {
 	public void setN(String n) {
 		this.ad = n;
 	}
+	public String getData;
+	
 }
