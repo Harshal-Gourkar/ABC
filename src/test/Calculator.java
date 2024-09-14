@@ -6,6 +6,7 @@ public class Calculator {
 	private int date;
 	private String add;
 	public int intSum;
+	//some data added.
 	public int data;
 	private String it;
 
@@ -21,4 +22,5 @@ public class Calculator {
 	}
 	public String getData;
 	// new code added
+	//new code added.
 }
