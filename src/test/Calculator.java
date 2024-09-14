@@ -1,8 +1,11 @@
 package test;
 
 public class Calculator {
+	private String name;
+	private String ad;
 	private int date;
 	private String add;
+
 	public int data;
 	private String it;
 
