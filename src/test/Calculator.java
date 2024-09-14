@@ -16,7 +16,7 @@ public class Calculator {
 	public String getN() {
 		return ad;
 	}
-
+	// Setter for n
 	public void setN(String n) {
 		this.ad = n;
 	}
