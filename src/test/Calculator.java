@@ -3,7 +3,7 @@ package test;
 public class Calculator {
 	
 
-	private String ni;
+	private String it;
 	
 	public Calculator(String ni ) {
 		this.ni=ni;
