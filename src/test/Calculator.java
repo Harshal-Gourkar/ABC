@@ -3,16 +3,16 @@ package test;
 public class Calculator {
 	
 
-	private String ni;
+	private String ad;
 	
-	public Calculator(String ni ) {
-		this.ni=ni;
+	public Calculator(String ad ) {
+		this.ad=ad;
 	}
 	public String getN() {
-		return ni;
+		return ad;
 	}
 
 	public void setN(String n) {
-		this.ni = n;
+		this.ad = n;
 	}
 }
