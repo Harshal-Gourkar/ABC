@@ -23,7 +23,6 @@ public class Calculator {
 	}
 	public String getData;
 	// new code added
-
 	//new code added
 	// some code needs to be added here.
 	//new code added.
